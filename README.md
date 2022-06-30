@@ -1,0 +1,1 @@
+# MultipleTypeUser-Django-With-Custom-Auth
